@@ -1,0 +1,17 @@
+package.json is used to add dependencies such as express
+
+
+Installations
+1. Install Node (Nodejs website)
+2. Install npm for dependency management
+3. Install express using npm
+4. Install mongodb for the database to use
+5. Install  mongoose - a library for data modelling, validation
+   npm i --save mongoose
+6. Install nodemon dependency - With code changes, refresh application automatically without refreshing the server
+   npm i --save nodemon
+7. Setup dependency:  Babel for JavaScript Syntax validation with ES6.
+   This is done in order to complete latest Javascript version for the browser to read it.
+   npm i --save-dev babel-cli babel-preset-es2015 babel-preset-stage-0
+8. Install dependency: body-parser   using command: npm i --save body-parser
+9. Install 
